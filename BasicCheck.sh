@@ -34,4 +34,4 @@ fi
      pass           $smemory           $sthread "
 
 cd $curentLocation  &>/dev/null
-exit $num  
+exit $num
